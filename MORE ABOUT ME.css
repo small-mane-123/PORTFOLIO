@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+.tasks{
+    color: white;
+    text-align: center;
+}
+.task1{
+    color: white;
+}
+.task2{
+    gap: 50px;
+    display: flex;
+    color: white;
+    list-style: none;
+}
+.task3{
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    background-color: yellow;
+}
+.task4{
+    color: yellow;
+}
+.task5{
+    color: yellow;
+}
+.task6{
+    color: yellow;
+}
+.task7{
+    color: yellow;
+}
